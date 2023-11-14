@@ -1,8 +1,14 @@
 [
     {
         "author": "Ahmad Ansari",
-        "url": "https://raw.githubusercontent.com/Ahmadansari2233/WallZone/Wallzone.json/main/abstract 1.jpg",
+        "url": "https://github.com/Ahmadansari2233/WallZone/blob/main/Abstract/abstract%201.jpg",
         "name": "Abstract 1",
+        "collections": "Abstract"
+    },
+    {
+        "author": "Ahmad Ansari",
+        "url": "https://github.com/Ahmadansari2233/WallZone/blob/main/Abstract/abstract%202.jpg",
+        "name": "Abstract 2",
         "collections": "Abstract"
     }
 ]
