@@ -298,8 +298,7 @@
         "author": "Ahmad Ansari",
         "url": "https://raw.githubusercontent.com/Ahmadansari2233/WallZone/main/Abstract/abstract%2050.jpg",
         "name": "Abstract 50",
-        "collections": "Abstract"
-        
+        "collections": "Abstract"    
     },
     {
         "author": "Ahmad Ansari",
@@ -310,7 +309,7 @@
     {
         "author": "Ahmad Ansari",
         "url": "https://raw.githubusercontent.com/Ahmadansari2233/WallZone/main/Mountain/mountain%202.jpg",
-        "name": "mountain 2",
+        "name": "Mountain 2",
         "collections": "Mountain"
     },
     {
@@ -427,6 +426,7 @@
         "name": "Mountain 21",
         "collections": "Mountain"
     },
+    {
         "author": "Ahmad Ansari",
         "url": "https://raw.githubusercontent.com/Ahmadansari2233/WallZone/main/Mountain/mountain%2022.jpg",
         "name": "Mountain 22",
