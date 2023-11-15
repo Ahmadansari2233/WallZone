@@ -600,6 +600,12 @@
         "url": "https://raw.githubusercontent.com/Ahmadansari2233/WallZone/main/animals/animal%2010.jpg",
         "name": "Animal 10",
         "collections": "Animals"
-    }   
+    },
+    {
+        "author": "Ahmad Ansari",
+        "url": "https://raw.githubusercontent.com/Ahmadansari2233/WallZone/main/Flowers/flower%201.jpg",
+        "name": "Flowers ",
+        "collections": "Flowera"
+    }
  
 ]
